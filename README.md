@@ -2,6 +2,8 @@
 
 Tired of writting your password or (like me) copying it from your autofill service? Well this tool is for you.
 
+⭐ Like the project? Please star it! 💜⭐
+
 
 ### WARNING 
 Please note that this tool is **NOT** safe! Why? Because you are storing your password in a text file. 
