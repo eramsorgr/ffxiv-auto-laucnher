@@ -2,6 +2,8 @@
 
 Tired of writting your password or (like me) copying it from your autofill service? Well this tool is for you.
 
+XIV Launcher is a much better launcher than the standard XIV one, and its also much more secure than this script. Check it here https://goatcorp.github.io/ 
+
 ⭐ Like the project? Please star it! 💜⭐
 
 
